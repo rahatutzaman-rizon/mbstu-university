@@ -1,0 +1,66 @@
+/* Styles */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #b71010;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header img {
+    width: 80px;
+  }
+  
+  header h2 {
+    display: inline-block;
+    vertical-align: middle;  
+  }
+  
+  header p {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+  }
+  
+  .navbar {
+    background-color: #007bff;
+  }
+  
+  .navbar-brand {
+    color: #fff;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  footer {
+    background-color: #eee;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+
+
+  
+
+  .event {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.event h3 {
+   color: #1a202c; 
+}
+
+.date {
+    font-size: 14px;
+    color: #6c757d;  
+}
